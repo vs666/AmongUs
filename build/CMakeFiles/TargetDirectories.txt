@@ -1,0 +1,9 @@
+/mnt/einzelganger/Desktop/Graphics/Assignment1/2019111015/AmongUs/build/CMakeFiles/rebuild_cache.dir
+/mnt/einzelganger/Desktop/Graphics/Assignment1/2019111015/AmongUs/build/CMakeFiles/glad.dir
+/mnt/einzelganger/Desktop/Graphics/Assignment1/2019111015/AmongUs/build/CMakeFiles/edit_cache.dir
+/mnt/einzelganger/Desktop/Graphics/Assignment1/2019111015/AmongUs/build/CMakeFiles/Hello-World.dir
+/mnt/einzelganger/Desktop/Graphics/Assignment1/2019111015/AmongUs/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/mnt/einzelganger/Desktop/Graphics/Assignment1/2019111015/AmongUs/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/mnt/einzelganger/Desktop/Graphics/Assignment1/2019111015/AmongUs/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/mnt/einzelganger/Desktop/Graphics/Assignment1/2019111015/AmongUs/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/mnt/einzelganger/Desktop/Graphics/Assignment1/2019111015/AmongUs/build/libraries/glfw/src/CMakeFiles/glfw.dir
